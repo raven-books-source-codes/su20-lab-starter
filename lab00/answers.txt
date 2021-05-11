@@ -1,4 +1,4 @@
-1.
-2.
-3.
-4.
+1. find -name "xxx"
+2. ps aux
+3. kill -15 or kill -9
+4. diff
