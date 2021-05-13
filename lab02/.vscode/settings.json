@@ -1,0 +1,7 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "lfsr.h": "c",
+        "bit_ops.h": "c"
+    }
+}
